@@ -65,8 +65,8 @@ class JHU(Retrieval):
         """
         url_csv = [
             "https://raw.githubusercontent.com/Quan-kas/IbagueCovid19/main/IbagueCovid19.csv",
-            "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv",
-            "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv",
+            "https://raw.githubusercontent.com/Quan-kas/IbagueCovid19/main/IbagueCovid19.csv",
+            "https://raw.githubusercontent.com/Quan-kas/IbagueCovid19/main/IbagueCovid19.csv",
         ]
 
         """
